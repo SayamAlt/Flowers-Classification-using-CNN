@@ -1,0 +1,4 @@
+flowers_alexnet_classifier.pt
+flowers_densenet121_classifier.pt
+flowers_resnet50_classifier.pt
+flowers_vgg16_classifier.pt
